@@ -1,0 +1,9 @@
+C:\Users\andrej.byra\Desktop\Calc\CalcL\bin\Debug\netstandard2.0\CalcL.deps.json
+C:\Users\andrej.byra\Desktop\Calc\CalcL\bin\Debug\netstandard2.0\CalcL.dll
+C:\Users\andrej.byra\Desktop\Calc\CalcL\bin\Debug\netstandard2.0\CalcL.pdb
+C:\Users\andrej.byra\Desktop\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.csprojAssemblyReference.cache
+C:\Users\andrej.byra\Desktop\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.csproj.CoreCompileInputs.cache
+C:\Users\andrej.byra\Desktop\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.AssemblyInfoInputs.cache
+C:\Users\andrej.byra\Desktop\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.AssemblyInfo.cs
+C:\Users\andrej.byra\Desktop\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.dll
+C:\Users\andrej.byra\Desktop\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.pdb

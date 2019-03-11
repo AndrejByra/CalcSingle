@@ -1,0 +1,9 @@
+C:\Users\andrej.byra\Desktop\Calc\Calcul\bin\Debug\netstandard2.0\Calcul.deps.json
+C:\Users\andrej.byra\Desktop\Calc\Calcul\bin\Debug\netstandard2.0\Calcul.dll
+C:\Users\andrej.byra\Desktop\Calc\Calcul\bin\Debug\netstandard2.0\Calcul.pdb
+C:\Users\andrej.byra\Desktop\Calc\Calcul\obj\Debug\netstandard2.0\Calcul.csprojAssemblyReference.cache
+C:\Users\andrej.byra\Desktop\Calc\Calcul\obj\Debug\netstandard2.0\Calcul.csproj.CoreCompileInputs.cache
+C:\Users\andrej.byra\Desktop\Calc\Calcul\obj\Debug\netstandard2.0\Calcul.AssemblyInfoInputs.cache
+C:\Users\andrej.byra\Desktop\Calc\Calcul\obj\Debug\netstandard2.0\Calcul.AssemblyInfo.cs
+C:\Users\andrej.byra\Desktop\Calc\Calcul\obj\Debug\netstandard2.0\Calcul.dll
+C:\Users\andrej.byra\Desktop\Calc\Calcul\obj\Debug\netstandard2.0\Calcul.pdb
