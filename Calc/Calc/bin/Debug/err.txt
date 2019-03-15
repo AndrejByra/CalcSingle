@@ -1,0 +1,2 @@
+System.Exception
+Message : nulov sa neda delit

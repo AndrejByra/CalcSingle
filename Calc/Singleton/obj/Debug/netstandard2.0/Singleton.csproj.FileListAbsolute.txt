@@ -1,0 +1,9 @@
+C:\Users\andrej.byra\Desktop\Calc\Singleton\bin\Debug\netstandard2.0\Singleton.deps.json
+C:\Users\andrej.byra\Desktop\Calc\Singleton\bin\Debug\netstandard2.0\Singleton.dll
+C:\Users\andrej.byra\Desktop\Calc\Singleton\bin\Debug\netstandard2.0\Singleton.pdb
+C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\Singleton.csprojAssemblyReference.cache
+C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\Singleton.AssemblyInfo.cs
+C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\Singleton.dll
+C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\Singleton.pdb
