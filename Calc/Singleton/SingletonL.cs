@@ -26,10 +26,10 @@ namespace SingletonL
             string pathL = ConfigurationManager.AppSettings["FilePath"];
             using ( StreamWriter streamWriter = new StreamWriter(pathL, true))
             {
-                streamWriter.WriteLine("First nunmber=" + a);
-                streamWriter.WriteLine("Char="+b);
-                streamWriter.WriteLine("Second number="+c);
-                streamWriter.WriteLine("result"+d);
+                streamWriter.WriteLine("First nunmber= " + a);
+                streamWriter.WriteLine("Char= "+b);
+                streamWriter.WriteLine("Second number= "+c);
+                streamWriter.WriteLine("result= "+d);
 
 
             }
