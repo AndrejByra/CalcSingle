@@ -29,10 +29,11 @@ namespace Calc
 
                 
                 Calculator calculator = new Calculator(a, b, c);
-                calculator.calc();
+
+                int d= calculator.calc();
 
 
-                SingletonL.SingletonL.GetSingleton(a, b, c);
+                SingletonL.SingletonL.GetSingleton(a, b, c, d);
 
 
             }

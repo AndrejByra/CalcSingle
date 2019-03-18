@@ -7,3 +7,12 @@ C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.
 C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.dll
 C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.pdb
 C:\Users\andrej.byra\Desktop\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.csprojAssemblyReference.cache
+C:\Users\Ado\Desktop\CalcSingle\Calc\Singleton\bin\Debug\netstandard2.0\SingletonL.deps.json
+C:\Users\Ado\Desktop\CalcSingle\Calc\Singleton\bin\Debug\netstandard2.0\SingletonL.dll
+C:\Users\Ado\Desktop\CalcSingle\Calc\Singleton\bin\Debug\netstandard2.0\SingletonL.pdb
+C:\Users\Ado\Desktop\CalcSingle\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.csprojAssemblyReference.cache
+C:\Users\Ado\Desktop\CalcSingle\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.csproj.CoreCompileInputs.cache
+C:\Users\Ado\Desktop\CalcSingle\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.AssemblyInfoInputs.cache
+C:\Users\Ado\Desktop\CalcSingle\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.AssemblyInfo.cs
+C:\Users\Ado\Desktop\CalcSingle\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.dll
+C:\Users\Ado\Desktop\CalcSingle\Calc\Singleton\obj\Debug\netstandard2.0\SingletonL.pdb

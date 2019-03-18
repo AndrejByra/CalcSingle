@@ -7,6 +7,7 @@ namespace CalcL
 
         private int a, c;
         private String b;
+        private int d;
       
 
         public Calculator(int a, String b, int c)
@@ -18,23 +19,32 @@ namespace CalcL
 
 
 
-        public void calc()
+        public int  calc()
         {
             switch (b)
             {
                 case "-":
-                    Console.WriteLine(a - c);
+                     d = a - c;
+                    Console.WriteLine(d);
+                     return d;
                     break;
                 case "+":
-                    Console.WriteLine(a + c);
+                    d = a + c;
+                    Console.WriteLine(d);
+                    return d;
                     break;
                 case "/":
                     Function.vrat(a, c);
+                    return d;
                     break;
                 case "*":
-                    Console.WriteLine(a * c);
+                    d = a * c;
+                    Console.WriteLine(d);
+                    return d;
                     break;
             }
+
+            return 0;
         }
 
         

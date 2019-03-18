@@ -10,3 +10,15 @@ C:\Users\andrej.byra\Desktop\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.pdb
 C:\Users\andrej.byra\Desktop\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.csproj.CopyComplete
 C:\Users\andrej.byra\Desktop\Calc\CalcL\bin\Debug\netstandard2.0\SingletonL.dll
 C:\Users\andrej.byra\Desktop\Calc\CalcL\bin\Debug\netstandard2.0\SingletonL.pdb
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\bin\Debug\netstandard2.0\CalcL.deps.json
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\bin\Debug\netstandard2.0\CalcL.dll
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\bin\Debug\netstandard2.0\CalcL.pdb
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\bin\Debug\netstandard2.0\SingletonL.dll
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\bin\Debug\netstandard2.0\SingletonL.pdb
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.csprojAssemblyReference.cache
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.csproj.CoreCompileInputs.cache
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.AssemblyInfoInputs.cache
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.AssemblyInfo.cs
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.csproj.CopyComplete
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.dll
+C:\Users\Ado\Desktop\CalcSingle\Calc\CalcL\obj\Debug\netstandard2.0\CalcL.pdb

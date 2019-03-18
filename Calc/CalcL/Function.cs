@@ -28,7 +28,8 @@ namespace CalcL
             }
             else
             {
-                Console.WriteLine(a / c);
+                int d = a / c;
+                Console.WriteLine(d);
             }
 
         }
