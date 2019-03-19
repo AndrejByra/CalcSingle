@@ -10,52 +10,56 @@ namespace Calc
     class Program
     {
 
-        public static void checker(int a, int c)
+        public static bool Checker(string a)
         {
-            string regex = "^[0 - 9] *$";
-            Match match = Regex.Match(a.ToString(), regex);
-            Match match1 = Regex.Match(c.ToString(), regex);
+            string regex = @"^\d+$";
+            Match match = Regex.Match(a, regex);
+           
             
-            if (match.Success || match1.Success)
+            if (match.Success)
             {
-
+                return true;
             }
             else
             {
                 Console.WriteLine("You enter wrong number");
-
-            }
+                return false;            }
 
         }
 
 
         static void Main(string[] args)
         {
-            int a, c;
+            string a, c;
             string b;
 
             
             try
             {
-                Console.WriteLine("Enter first number");
-                a = int.Parse(Console.ReadLine());
-                
+                while (true)
+                {
+                    Console.WriteLine("Enter first number");
+                    if (!Checker(a=Console.ReadLine())){
+                        continue;
+                    }
 
-                Console.WriteLine("Enter What you want /,*,-,+");
-                b = Console.ReadLine();
+                    Console.WriteLine("Enter What you want /,*,-,+");
+                    b = Console.ReadLine();
 
-                Console.WriteLine("Enter second number");
-                c = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Enter second number");
+                    if(!Checker(c = Console.ReadLine())){
+                        continue;
+                    }
 
-                
-                Calculator calculator = new Calculator(a, b, c);
+                    Calculator calculator = new Calculator(int.Parse(a), b, int.Parse(c));
 
-                int d = calculator.calc();
-
-
-                SingletonL.SingletonL.GetSingleton(a, b, c, d);
+                    int d = calculator.calc();
 
 
+                    SingletonL.SingletonL.GetSingleton(int.Parse(a), b, int.Parse(c), d);
+
+                    break;
+                }
             }
             catch (Exception e)
             {
