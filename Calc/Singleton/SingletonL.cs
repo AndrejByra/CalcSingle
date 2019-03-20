@@ -3,7 +3,7 @@ using System.IO;
 
 namespace SingletonL
 {
-    public class SingletonL
+    public class SingletonL: LoggerInterface
     {
         private static SingletonL singleton = null;
 
@@ -21,7 +21,6 @@ namespace SingletonL
             return singleton;
         }
 
-
         public void logWriter(int a,string b, int c,int d ) {
             string pathL = ConfigurationManager.AppSettings["FilePath"];
             using ( StreamWriter streamWriter = new StreamWriter(pathL, true))
@@ -30,18 +29,8 @@ namespace SingletonL
                 streamWriter.WriteLine("Char= "+b);
                 streamWriter.WriteLine("Second number= "+c);
                 streamWriter.WriteLine("result= "+d);
-
-
             }
-
-
-
-
         }
-        
-
-     
-
     }
 }
     

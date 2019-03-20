@@ -2,7 +2,7 @@
 
 namespace CalcL
 {
-    public class Calculator
+    public class Calculator:CalculatorInterface
     {
 
         private int a, c;
@@ -18,8 +18,8 @@ namespace CalcL
         }
 
 
-
-        public int  calc()
+         
+           public int calc()
         {
             switch (b)
             {
@@ -46,8 +46,6 @@ namespace CalcL
 
             return 0;
         }
-
-        
 
 
 
