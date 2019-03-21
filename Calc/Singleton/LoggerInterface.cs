@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SingletonL
+﻿namespace SingletonL
 {
     public interface LoggerInterface
     {

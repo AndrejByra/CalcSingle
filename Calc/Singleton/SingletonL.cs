@@ -10,14 +10,14 @@ namespace SingletonL
         private SingletonL() { }
 
 
-        public static SingletonL GetSingleton(int a, string b,int c,int d)
+        public static SingletonL GetSingleton()
         {
             if (singleton == null)
             {
                 singleton = new SingletonL();
 
             }
-            singleton.logWriter(a,b,c,d);
+            
             return singleton;
         }
 

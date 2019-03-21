@@ -7,14 +7,22 @@ namespace Calc
 {
     class Checking
     {
+        
+        string a, c;
+        string b;
+        int d;
+
+        private readonly LoggerInterface logeri;
+
+        public  Checking()
+        {
+            logeri = SingletonL.SingletonL.GetSingleton();
+                
+        }
 
 
         public void proces()
         {
-            string a, c;
-            string b;
-
-
             try
             {
                 while (true)
@@ -36,11 +44,13 @@ namespace Calc
 
                     //Calculator calculator = new Calculator(int.Parse(a), b, int.Parse(c));
                     CalculatorInterface calsInterface = new Calculator(int.Parse(a), b, int.Parse(c));
-                    int d = calsInterface.calc();
+                     d = calsInterface.calc();
 
 
 
-                   SingletonL.SingletonL.GetSingleton(int.Parse(a), b, int.Parse(c), d);
+                    //SingletonL.SingletonL.GetSingleton(int.Parse(a), b, int.Parse(c), d);
+                    
+                    logeri.logWriter(int.Parse(a), b, int.Parse(c), d);
 
                     break;
                 }

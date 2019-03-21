@@ -12,5 +12,6 @@ namespace Calc
            checking.proces();
            Console.ReadKey();
         }
+
     }
 }
