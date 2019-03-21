@@ -11,12 +11,13 @@ namespace Calc
         string a, c;
         string b;
         int d;
+        
 
         private readonly LoggerInterface logeri;
 
-        public  Checking()
+        public  Checking(LoggerInterface logeri)
         {
-            logeri = SingletonL.SingletonL.GetSingleton();
+            this.logeri = logeri;
                 
         }
 

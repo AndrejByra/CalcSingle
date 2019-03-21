@@ -1,17 +1,26 @@
-using CalcL;
 using System;
-using System.Text.RegularExpressions;
+using System.Configuration;
+using SingletonL;
 
 namespace Calc
 {
     class Program
     {
+        private static  LoggerInterface logeri;
+
         static void Main(string[] args)
         {
-           Checking checking = new Checking();
+           logeri = SingletonL.SingletonL.GetSingleton(ConfigurationManager.AppSettings["FilePath"]);
+           Checking checking = new Checking(logeri);
            checking.proces();
-           Console.ReadKey();
+
+           
+            Console.ReadKey();
+            
         }
+        
+
+
 
     }
 }
