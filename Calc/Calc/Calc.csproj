@@ -71,6 +71,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CalcInterfaces\CalcInterfaces.csproj">
+      <Project>{d8e516e9-fa6c-45c0-b719-45946fe5e064}</Project>
+      <Name>CalcInterfaces</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CalcL\CalcL.csproj">
       <Project>{2b604feb-292f-45b4-b466-19cac8fe82fb}</Project>
       <Name>CalcL</Name>

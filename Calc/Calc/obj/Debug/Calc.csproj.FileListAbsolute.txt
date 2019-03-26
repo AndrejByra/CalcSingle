@@ -457,3 +457,5 @@ C:\Users\andrej.byra\Desktop\CalcSingle\Calc\Calc\obj\Debug\Calc.csproj.CoreComp
 C:\Users\andrej.byra\Desktop\CalcSingle\Calc\Calc\obj\Debug\Calc.csproj.CopyComplete
 C:\Users\andrej.byra\Desktop\CalcSingle\Calc\Calc\obj\Debug\Calc.exe
 C:\Users\andrej.byra\Desktop\CalcSingle\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\Calc\bin\Debug\CalcInterfaces.dll
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\Calc\bin\Debug\CalcInterfaces.pdb

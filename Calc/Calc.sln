@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcL", "CalcL\CalcL.csproj", "{2B604FEB-292F-45B4-B466-19CAC8FE82FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonL", "Singleton\SingletonL.csproj", "{FDC94326-53F6-4BBC-92A8-D80D38FD7F43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonL", "Singleton\SingletonL.csproj", "{FDC94326-53F6-4BBC-92A8-D80D38FD7F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcInterfaces", "CalcInterfaces\CalcInterfaces.csproj", "{D8E516E9-FA6C-45C0-B719-45946FE5E064}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FDC94326-53F6-4BBC-92A8-D80D38FD7F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDC94326-53F6-4BBC-92A8-D80D38FD7F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDC94326-53F6-4BBC-92A8-D80D38FD7F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E516E9-FA6C-45C0-B719-45946FE5E064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E516E9-FA6C-45C0-B719-45946FE5E064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E516E9-FA6C-45C0-B719-45946FE5E064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E516E9-FA6C-45C0-B719-45946FE5E064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

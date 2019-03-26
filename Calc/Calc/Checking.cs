@@ -7,20 +7,16 @@ namespace Calc
 {
     class Checking
     {
-        
         string a, c;
         string b;
         int d;
         
-
         private readonly LoggerInterface logeri;
 
         public  Checking(LoggerInterface logeri)
         {
-            this.logeri = logeri;
-                
+            this.logeri = logeri;     
         }
-
 
         public void proces()
         {
@@ -47,8 +43,6 @@ namespace Calc
                     CalculatorInterface calsInterface = new Calculator(int.Parse(a), b, int.Parse(c));
                      d = calsInterface.calc();
 
-
-
                     //SingletonL.SingletonL.GetSingleton(int.Parse(a), b, int.Parse(c), d);
                     
                     logeri.logWriter(int.Parse(a), b, int.Parse(c), d);
@@ -61,19 +55,12 @@ namespace Calc
                 Console.WriteLine(e.ToString());
 
             }
-
-
-
         }
-
-
-
 
         private static bool Checker(string a)
         {
             string regex = @"^\d+$";
             Match match = Regex.Match(a, regex);
-
 
             if (match.Success)
             {

@@ -9,6 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "CalcL/1.0.0": {
         "dependencies": {
+          "CalcInterfaces": "1.0.0",
           "NETStandard.Library": "2.0.3",
           "SingletonL": "1.0.0",
           "System.Configuration.ConfigurationManager": "4.5.0"
@@ -113,8 +114,14 @@
           }
         }
       },
+      "CalcInterfaces/1.0.0": {
+        "runtime": {
+          "CalcInterfaces.dll": {}
+        }
+      },
       "SingletonL/1.0.0": {
         "dependencies": {
+          "CalcInterfaces": "1.0.0",
           "System.Configuration.ConfigurationManager": "4.5.0"
         },
         "runtime": {
@@ -205,6 +212,11 @@
       "sha512": "sha512-U77HfRXlZlOeIXd//Yoj6Jnk8AXlbeisf1oq1os+hxOGVnuG+lGSfGqTwTZBoORFF6j/0q7HXIl8cqwQ9aUGqQ==",
       "path": "system.security.principal.windows/4.5.0",
       "hashPath": "system.security.principal.windows.4.5.0.nupkg.sha512"
+    },
+    "CalcInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "SingletonL/1.0.0": {
       "type": "project",

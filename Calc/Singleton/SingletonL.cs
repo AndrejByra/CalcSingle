@@ -7,17 +7,16 @@ namespace SingletonL
     {
         public static string path;
         private static SingletonL singleton = null;
-        //string path;
+       
         private SingletonL() { }
-
 
         public static SingletonL GetSingleton(string pathL)
         {
             if (singleton == null)
             {
                 singleton = new SingletonL();
-
             }
+
              path = pathL;
             return singleton;
         }
@@ -33,4 +32,3 @@ namespace SingletonL
         }
     }
 }
-    

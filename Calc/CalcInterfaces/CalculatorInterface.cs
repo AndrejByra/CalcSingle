@@ -3,6 +3,5 @@
     public interface CalculatorInterface
     {
         int calc();
-
     }
 }

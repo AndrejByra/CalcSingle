@@ -33,14 +33,5 @@ namespace CalcL
             }
 
         }
-
-
-
-
-
-
-
-
-
     }
 }

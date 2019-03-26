@@ -4,12 +4,10 @@ namespace CalcL
 {
     public class Calculator:CalculatorInterface
     {
-
         private int a, c;
         private String b;
         private int d;
       
-
         public Calculator(int a, String b, int c)
         {
             this.a = a;
@@ -17,9 +15,7 @@ namespace CalcL
             this.c = c;
         }
 
-
-         
-           public int calc()
+        public int calc()
         {
             switch (b)
             {
@@ -43,18 +39,8 @@ namespace CalcL
                     return d;
                     break;
             }
-
             return 0;
         }
-
-
-
     }       
 
 }
-
-
-
-
-
-

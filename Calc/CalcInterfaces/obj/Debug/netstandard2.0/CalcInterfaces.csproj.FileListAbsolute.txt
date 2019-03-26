@@ -1,0 +1,9 @@
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\CalcInterfaces\bin\Debug\netstandard2.0\CalcInterfaces.deps.json
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\CalcInterfaces\bin\Debug\netstandard2.0\CalcInterfaces.dll
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\CalcInterfaces\bin\Debug\netstandard2.0\CalcInterfaces.pdb
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\CalcInterfaces\obj\Debug\netstandard2.0\CalcInterfaces.csprojAssemblyReference.cache
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\CalcInterfaces\obj\Debug\netstandard2.0\CalcInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\CalcInterfaces\obj\Debug\netstandard2.0\CalcInterfaces.AssemblyInfoInputs.cache
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\CalcInterfaces\obj\Debug\netstandard2.0\CalcInterfaces.AssemblyInfo.cs
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\CalcInterfaces\obj\Debug\netstandard2.0\CalcInterfaces.dll
+C:\Users\andrej.byra\Desktop\CalcSingle\Calc\CalcInterfaces\obj\Debug\netstandard2.0\CalcInterfaces.pdb

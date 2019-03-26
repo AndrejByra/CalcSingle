@@ -143,10 +143,21 @@
           }
         }
       },
+      "CalcInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CalcInterfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalcInterfaces.dll": {}
+        }
+      },
       "SingletonL/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "CalcInterfaces": "1.0.0",
           "System.Configuration.ConfigurationManager": "4.5.0"
         },
         "compile": {
@@ -604,6 +615,11 @@
         "version.txt"
       ]
     },
+    "CalcInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../CalcInterfaces/CalcInterfaces.csproj",
+      "msbuildProject": "../CalcInterfaces/CalcInterfaces.csproj"
+    },
     "SingletonL/1.0.0": {
       "type": "project",
       "path": "../Singleton/SingletonL.csproj",
@@ -612,6 +628,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "CalcInterfaces >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "SingletonL >= 1.0.0",
       "System.Configuration.ConfigurationManager >= 4.5.0"
@@ -647,6 +664,9 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
+            "C:\\Users\\andrej.byra\\Desktop\\CalcSingle\\Calc\\CalcInterfaces\\CalcInterfaces.csproj": {
+              "projectPath": "C:\\Users\\andrej.byra\\Desktop\\CalcSingle\\Calc\\CalcInterfaces\\CalcInterfaces.csproj"
+            },
             "C:\\Users\\andrej.byra\\Desktop\\CalcSingle\\Calc\\Singleton\\SingletonL.csproj": {
               "projectPath": "C:\\Users\\andrej.byra\\Desktop\\CalcSingle\\Calc\\Singleton\\SingletonL.csproj"
             }

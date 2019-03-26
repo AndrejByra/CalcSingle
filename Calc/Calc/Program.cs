@@ -14,13 +14,8 @@ namespace Calc
            Checking checking = new Checking(logeri);
            checking.proces();
 
-           
-            Console.ReadKey();
+           Console.ReadKey();
             
         }
-        
-
-
-
     }
 }
